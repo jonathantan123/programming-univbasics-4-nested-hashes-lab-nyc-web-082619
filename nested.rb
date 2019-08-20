@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-    programmer_hash[:yukohiro]
+    programmer_hash[:yukihiro_matsumoto] = {known_for: ruby, languges: ["LISP", "C"]}
 end
 
 def changing_alan
